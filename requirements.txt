@@ -1,4 +1,6 @@
-dash == 1.17.0
-flask
+Flask==1.1.2
+dash==1.17.0
+dash_core_components==1.13.0
+opencv_python==4.5.1.48
+dash_html_components==1.1.1
 gunicorn
-opencv-python
